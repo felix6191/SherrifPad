@@ -12,7 +12,9 @@ Here you can take a look at the schmeatics which shows the differnt connections 
 # PCB 
 The pcb shows the actual connections and how they are laid out 
 <img width="819" height="455" alt="Bildschirmfoto 2026-01-16 um 22 53 22" src="https://github.com/user-attachments/assets/ab34e205-b879-4a67-8d2e-8ed42420a615" />
-#BOM
+
+# BOM
+
 If you are interested in my Macropad you will need the following parts which you will be all gifted from hackclub if yu register and make your own MacroPad:
 
 - 1x Seeed XIAO RP2040
